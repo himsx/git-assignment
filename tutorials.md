@@ -5,3 +5,7 @@ I am Kamalvir Kaur.I studied all main git tutorials including branching,merging,
 ##### Syed Falahuddin Quadri:
 Really impressive compilation of tutorials, learned commit amending and hosting git server from the tutorials, ill use this in my industry and research work. Specially this [tutorial](https://gitimmersion.com/lab_50.html)
 ---
+
+
+##Echefulachi Njoku:
+Insightful tutorials! I gained an understanding of cloning with SSH, making changes to an existing repository without affecting the original (forking), managing files, creating commits, and using push and pull commands.
