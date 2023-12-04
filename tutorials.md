@@ -9,3 +9,6 @@ Really impressive compilation of tutorials, learned commit amending and hosting 
 
 ##Echefulachi Njoku:
 Very insightful tutorials! I gained an understanding of cloning with SSH, making changes to an existing repository without affecting the original (forking), managing files, creating commits, and using push and pull commands.
+
+Sakin:
+I am slowly going through this by doing hand on practice. So far these are excelllent resources. However, setting up SSH key in my account was challenging.
