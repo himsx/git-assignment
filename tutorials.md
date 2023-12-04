@@ -9,3 +9,7 @@ Really impressive compilation of tutorials, learned commit amending and hosting 
 
 ##Echefulachi Njoku:
 Very insightful tutorials! I gained an understanding of cloning with SSH, making changes to an existing repository without affecting the original (forking), managing files, creating commits, and using push and pull commands.
+
+---
+##Md. Hefzul Bari:
+[Git Immersion](https://gitimmersion.com/lab_01.html) is a well-structured tutorial for learning Github, especially, for the beginners. I really found it very clear and easy to follow and learnt the git commands by completing the exercises.
