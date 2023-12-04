@@ -47,5 +47,9 @@ The tutorials provided valuable insights! I now have a clear understanding of SS
 The tutorials provided valuable insights! I now have a clear understanding of SSH cloning, forking to modify repositories without impacting the original, file management, committing changes, and utilizing push and pull commands.
 
 
+
 Nimmy:
 Thank you, Himanshu Patel, for your invaluable tutorial and for handson experience. Your support made a significant difference in my understanding of python.
+
+Namitha Paul: Learening Git is exciting and useful. It is always challenging to learn new things.
+
