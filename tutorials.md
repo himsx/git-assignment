@@ -29,3 +29,6 @@ I express my gratitude to Himanshu Patel for his great help with the GitHub assi
 ### Oluwatobiloba Kikiowo: 
 I went through different Git tutorials that covered things like branching, merging, and rebasing. It was easy to understand and solve all the questions because the instructions were clear and straightforward, starting from the basics and going to more advanced stuff. Learning the basics was simple, but if you needed to review a specific step, you had to start over from the beginning.
 
+
+Jyoti Rawat
+It will really help beginners to get started with Git. This is still one of the most comprehensive Git course. Thank you very much.
