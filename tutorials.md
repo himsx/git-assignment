@@ -12,3 +12,6 @@ Very insightful tutorials! I gained an understanding of cloning with SSH, making
 
 Sakin:
 I am slowly going through this by doing hand on practice. So far these are excelllent resources. However, setting up SSH key in my account was challenging.
+
+Shalin:
+Thank you, Himanshu Patel, for your invaluable assistance with the GitHub assignment. Your support made a significant difference in my understanding.
