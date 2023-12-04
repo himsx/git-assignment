@@ -21,7 +21,6 @@ Thank you, Himanshu Patel, for your invaluable assistance with the GitHub assign
 Ashmeet:
 I express my gratitude to Himanshu Patel for his great help with the GitHub assignment. My comprehension has changed significantly as a result of your assistance.
 
-
 ##Md. Hefzul Bari:
 [Git Immersion](https://gitimmersion.com/lab_01.html) is a well-structured tutorial for learning Github, especially, for the beginners. I really found it very clear and easy to follow and learnt the git commands by completing the exercises.
 
@@ -31,3 +30,5 @@ I went through different Git tutorials that covered things like branching, mergi
 
 #Jilu Puttoor Shaju#
 This was a highly comprehensive and helpful Git Document. It helped me to properly understand the basic concepts and operations of Git as well as use cases, Thank you very much!
+
+Kojo: A good tutorial. 
