@@ -2,9 +2,11 @@ I am Kamalvir Kaur.I studied all main git tutorials including branching,merging,
 
 
 ---
-##### Syed Falahuddin Quadri:
+##Syed Falahuddin Quadri:
 Really impressive compilation of tutorials, learned commit amending and hosting git server from the tutorials, ill use this in my industry and research work. Specially this [tutorial](https://gitimmersion.com/lab_50.html)
+
 ---
+
 
 
 ##Echefulachi Njoku:
@@ -18,3 +20,8 @@ Thank you, Himanshu Patel, for your invaluable assistance with the GitHub assign
 
 Ashmeet:
 I express my gratitude to Himanshu Patel for his great help with the GitHub assignment. My comprehension has changed significantly as a result of your assistance.
+
+
+##Md. Hefzul Bari:
+[Git Immersion](https://gitimmersion.com/lab_01.html) is a well-structured tutorial for learning Github, especially, for the beginners. I really found it very clear and easy to follow and learnt the git commands by completing the exercises.
+
