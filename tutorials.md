@@ -53,3 +53,7 @@ Thank you, Himanshu Patel, for your invaluable tutorial and for handson experien
 
 Namitha Paul: Learening Git is exciting and useful. It is always challenging to learn new things.
 
+
+Raj Patel:
+I really enjoy working with you and I learn git very easily with your tutorials.
+
