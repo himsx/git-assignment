@@ -15,3 +15,6 @@ I am slowly going through this by doing hand on practice. So far these are excel
 
 Shalin:
 Thank you, Himanshu Patel, for your invaluable assistance with the GitHub assignment. Your support made a significant difference in my understanding.
+
+### Oluwatobiloba Kikiowo: 
+I went through different Git tutorials that covered things like branching, merging, and rebasing. It was easy to understand and solve all the questions because the instructions were clear and straightforward, starting from the basics and going to more advanced stuff. Learning the basics was simple, but if you needed to review a specific step, you had to start over from the beginning.
