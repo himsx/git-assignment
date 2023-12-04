@@ -45,3 +45,5 @@ The tutorials provided valuable insights! I now have a clear understanding of SS
 
 ### Baljinder kaur
 The tutorials provided valuable insights! I now have a clear understanding of SSH cloning, forking to modify repositories without impacting the original, file management, committing changes, and utilizing push and pull commands.
+
+Namitha Paul: Learening Git is exciting and useful. It is always challenging to learn new things.
