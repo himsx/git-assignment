@@ -32,3 +32,6 @@ I went through different Git tutorials that covered things like branching, mergi
 This was a highly comprehensive and helpful Git Document. It helped me to properly understand the basic concepts and operations of Git as well as use cases, Thank you very much!
 
 Kojo: A good tutorial. 
+
+Jyoti Rawat
+It will really help beginners to get started with Git. This is still one of the most comprehensive Git course. Thank you very much.
