@@ -43,3 +43,5 @@ It help me understand the git and also improve my knowledge regarding control ve
 ### Florence Osunde:
 The tutorials provided valuable insights! I now have a clear understanding of SSH cloning, forking to modify repositories without impacting the original, file management, committing changes, and utilizing push and pull commands.
 
+### Baljinder kaur
+The tutorials provided valuable insights! I now have a clear understanding of SSH cloning, forking to modify repositories without impacting the original, file management, committing changes, and utilizing push and pull commands.
