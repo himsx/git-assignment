@@ -35,3 +35,6 @@ Kojo: A good tutorial.
 
 Jyoti Rawat
 It will really help beginners to get started with Git. This is still one of the most comprehensive Git course. Thank you very much.
+
+Rajwinder Kaur
+It help me understand the git and also improve my knowledge regarding control version system, thank you for giving this thoughtfull assignment
