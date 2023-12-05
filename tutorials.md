@@ -57,3 +57,5 @@ Namitha Paul: Learening Git is exciting and useful. It is always challenging to 
 Raj Patel:
 I really enjoy working with you and I learn git very easily with your tutorials.
 
+Faria:
+I have gone through all the contents in this module. Very detailed and explnatory. However, some git codes/commands are not stated clearly. Overall, it is a good learning material for the beginners.
