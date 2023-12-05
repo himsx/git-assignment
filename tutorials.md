@@ -32,3 +32,28 @@ I went through different Git tutorials that covered things like branching, mergi
 This was a highly comprehensive and helpful Git Document. It helped me to properly understand the basic concepts and operations of Git as well as use cases, Thank you very much!
 
 Kojo: A good tutorial. 
+
+Jyoti Rawat
+It will really help beginners to get started with Git. This is still one of the most comprehensive Git course. Thank you very much.
+
+
+###Rajwinder Kaur
+It help me understand the git and also improve my knowledge regarding control version system, thank you for giving this thoughtfull assignment
+
+### Florence Osunde:
+The tutorials provided valuable insights! I now have a clear understanding of SSH cloning, forking to modify repositories without impacting the original, file management, committing changes, and utilizing push and pull commands.
+
+### Baljinder kaur
+The tutorials provided valuable insights! I now have a clear understanding of SSH cloning, forking to modify repositories without impacting the original, file management, committing changes, and utilizing push and pull commands.
+
+
+
+Nimmy:
+Thank you, Himanshu Patel, for your invaluable tutorial and for handson experience. Your support made a significant difference in my understanding of python.
+
+Namitha Paul: Learening Git is exciting and useful. It is always challenging to learn new things.
+
+
+Raj Patel:
+I really enjoy working with you and I learn git very easily with your tutorials.
+
