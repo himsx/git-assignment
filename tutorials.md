@@ -1,14 +1,2 @@
-I am Kamalvir Kaur.I studied all main git tutorials including branching,merging, rebasing and many more. It was easy to solve all the questions as instructions were clear and concise from basic to advance levels. I learnt all the basics of git in an easy manner but if we want to check some step it will start again from beginning.
-
-
----
-##### Syed Falahuddin Quadri:
-Really impressive compilation of tutorials, learned commit amending and hosting git server from the tutorials, ill use this in my industry and research work. Specially this [tutorial](https://gitimmersion.com/lab_50.html)
----
-
-
-##Echefulachi Njoku:
-Very insightful tutorials! I gained an understanding of cloning with SSH, making changes to an existing repository without affecting the original (forking), managing files, creating commits, and using push and pull commands.
-
-Sakin:
-I am slowly going through this by doing hand on practice. So far these are excelllent resources. However, setting up SSH key in my account was challenging.
+##Syed Nayeem Ahmed 
+I found this "GitImmersion" tutorial to be a really good platform for learning GitHub. All the topics are clearly described and it is easy to understand and follow.
