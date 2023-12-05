@@ -60,3 +60,6 @@ I really enjoy working with you and I learn git very easily with your tutorials.
 Thao_Nguyen:
 My tutorials falls in N-Z. It's useful tutorials for reading and practicing about GIT.
 
+Faria:
+I have gone through all the contents in this module. Very detailed and explnatory. However, some git codes/commands are not stated clearly. Overall, it is a good learning material for the beginners.
+
