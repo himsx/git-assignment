@@ -1,3 +1,4 @@
+
 I am Kamalvir Kaur.I studied all main git tutorials including branching,merging, rebasing and many more. It was easy to solve all the questions as instructions were clear and concise from basic to advance levels. I learnt all the basics of git in an easy manner but if we want to check some step it will start again from beginning.
 
 
@@ -63,3 +64,5 @@ My tutorials falls in N-Z. It's useful tutorials for reading and practicing abou
 Faria:
 I have gone through all the contents in this module. Very detailed and explnatory. However, some git codes/commands are not stated clearly. Overall, it is a good learning material for the beginners.
 
+##Syed Nayeem Ahmed 
+I found this "GitImmersion" tutorial to be a really good platform for learning GitHub. All the topics are clearly described and it is easy to understand and follow.
