@@ -80,3 +80,6 @@ the tutorial was really good, all the knowledge acquired about Git helps me a lo
 Oscar Mauricio Trigueros:
 Actually, this assignment and the tutorials within its document help us in a very friendly and educational way on how to use the GIT platform, how to edit repositories by creating branches from the fork of a main repository of a shared document.
 >>>>>>> 26aa28d288a4e90a58fdab6df9bdf1fc59050d88
+
+Ali Azgar Katha:
+The tutorials were so helpful. I had never used git before, and the tutorial helped me to understand git from the scratch. I will practice more and get used to git to apply this knowledge in  future.
