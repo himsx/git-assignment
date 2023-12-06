@@ -58,9 +58,11 @@ Namitha Paul: Learening Git is exciting and useful. It is always challenging to 
 Raj Patel:
 I really enjoy working with you and I learn git very easily with your tutorials.
 
-<<<<<<< HEAD
+
 Bigyan Sapkota: 
-Learnt alot about branches, pull, commit and push from the git tutorials. Now I can use this knowledge in my future projects. It was a great practice to review my past knowledge on git as well as learning new things.
+Learnt alot about branches, pull, commit and push from the git tutorials. 
+Now I can use this knowledge in my future projects. It was a great practice to review my past knowledge on git as well as learning new things.
+
 =======
 Thao_Nguyen:
 My tutorials falls in N-Z. It's useful tutorials for reading and practicing about GIT.

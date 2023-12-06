@@ -36,8 +36,10 @@ namitha-Paul: https://github.com/namipaul
 
 Raj patel: https://github.com/raj2705
 
-<<<<<<< HEAD
-Bgyan Sapkota: https://github.com/bigyansapkota97
+
+Bgyan Sapkota:
+https://github.com/bigyansapkota97
+
 =======
 Thao_Le_Thanh_Nguyen: https://github.com/nguyen3006_thao
 
