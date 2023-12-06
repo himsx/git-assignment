@@ -70,3 +70,6 @@ I found this "GitImmersion" tutorial to be a really good platform for learning G
 Anderson Delgado Rodriguez: 
 
 the tutorial was really good, all the knowledge acquired about Git helps me a lot with the github environment. thank you so much.
+
+Oscar Mauricio Trigueros:
+Actually, this assignment and the tutorials within its document help us in a very friendly and educational way on how to use the GIT platform, how to edit repositories by creating branches from the fork of a main repository of a shared document.
