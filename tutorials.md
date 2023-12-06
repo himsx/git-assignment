@@ -66,3 +66,7 @@ I have gone through all the contents in this module. Very detailed and explnator
 
 ##Syed Nayeem Ahmed 
 I found this "GitImmersion" tutorial to be a really good platform for learning GitHub. All the topics are clearly described and it is easy to understand and follow.
+
+Anderson Delgado Rodriguez: 
+
+the tutorial was really good, all the knowledge acquired about Git helps me a lot with the github environment. thank you so much.
