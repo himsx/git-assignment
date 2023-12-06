@@ -1,3 +1,4 @@
+
 I am Kamalvir Kaur.I studied all main git tutorials including branching,merging, rebasing and many more. It was easy to solve all the questions as instructions were clear and concise from basic to advance levels. I learnt all the basics of git in an easy manner but if we want to check some step it will start again from beginning.
 
 
@@ -57,5 +58,23 @@ Namitha Paul: Learening Git is exciting and useful. It is always challenging to 
 Raj Patel:
 I really enjoy working with you and I learn git very easily with your tutorials.
 
+<<<<<<< HEAD
 Bigyan Sapkota: 
 Learnt alot about branches, pull, commit and push from the git tutorials. Now I can use this knowledge in my future projects. It was a great practice to review my past knowledge on git as well as learning new things.
+=======
+Thao_Nguyen:
+My tutorials falls in N-Z. It's useful tutorials for reading and practicing about GIT.
+
+Faria:
+I have gone through all the contents in this module. Very detailed and explnatory. However, some git codes/commands are not stated clearly. Overall, it is a good learning material for the beginners.
+
+##Syed Nayeem Ahmed 
+I found this "GitImmersion" tutorial to be a really good platform for learning GitHub. All the topics are clearly described and it is easy to understand and follow.
+
+Anderson Delgado Rodriguez: 
+
+the tutorial was really good, all the knowledge acquired about Git helps me a lot with the github environment. thank you so much.
+
+Oscar Mauricio Trigueros:
+Actually, this assignment and the tutorials within its document help us in a very friendly and educational way on how to use the GIT platform, how to edit repositories by creating branches from the fork of a main repository of a shared document.
+>>>>>>> 26aa28d288a4e90a58fdab6df9bdf1fc59050d88
