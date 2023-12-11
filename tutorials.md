@@ -101,3 +101,5 @@ The tutorials were very useful. They helped me better understand git and its com
 
 Polash Baidya: Learening Git is exciting and useful. It is always challenging to learn new things.
 >>>>>>> aea6ad1670ab78eba82cfe821355d488224ad6d3
+
+Polash Baidya: Learening Git is exciting and useful. It is always challenging to learn new things.
