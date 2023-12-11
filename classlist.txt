@@ -41,7 +41,7 @@ Olasunkanmi:
 Bgyan Sapkota:
 https://github.com/bigyansapkota97
 
-=======
+
 Thao_Le_Thanh_Nguyen: https://github.com/nguyen3006_thao
 
 Faria Tasneem_Fall2023_AIDA:https://github.com/faria16
@@ -51,7 +51,7 @@ Syed Nayeem Ahmed - Fall 2023-24 https://github.com/Nayeem2024
 Anderson Delgado Rodriguez_Fall-2023 https://github.com/andersond1997
 
 Oscar Mauricio Trigueros: https://github.com/omtriguero
->>>>>>> 26aa28d288a4e90a58fdab6df9bdf1fc59050d88
+
 
 ALi Azgar Katha : https://github.com/aliazgarkatha
 
@@ -67,4 +67,4 @@ Polash Baidya: https://github.com/polashB1
 
 Mohammadali Polara : "Md-Ali7" Please fill free to checkout :)
 
-
+chandrashekar REddy : https://github.com/chandrashekarreddy1331
