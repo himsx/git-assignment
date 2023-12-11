@@ -84,8 +84,20 @@ Actually, this assignment and the tutorials within its document help us in a ver
 Ali Azgar Katha:
 The tutorials were so helpful. I had never used git before, and the tutorial helped me to understand git from the scratch. I will practice more and get used to git to apply this knowledge in  future.
 m y   n a m e   i s   o l a   a n d   i   g o   t h r o u g h   w h o l e   g i t   a s s i g n m e n t s   a n d   w o r k i n g   w e l l 
+
+Mary Akpan:
+Great tutorials with outstanding insights
  
+<<<<<<< HEAD
 
 Kunjal Mahant:
 Github is a very helpful tool for the folks in IT industry. This helps them manage and supervise the changes made by different individual.
  
+=======
+ 
+---------------
+Chau Le:
+The tutorials were very useful. They helped me better understand git and its commands. I will try to practice more the tutorials.
+
+Polash Baidya: Learening Git is exciting and useful. It is always challenging to learn new things.
+>>>>>>> aea6ad1670ab78eba82cfe821355d488224ad6d3
