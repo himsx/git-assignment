@@ -89,3 +89,6 @@ Mary Akpan:
 Great tutorials with outstanding insights
  
  
+---------------
+Chau Le:
+The tutorials were very useful. They helped me better understand git and its commands. I will try to practice more the tutorials.
