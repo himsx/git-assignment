@@ -92,8 +92,8 @@ Kunjal Mahant:
 Github is a very helpful tool for the folks in IT industry. This helps them manage and supervise the changes made by different individual.
  
 
->>>>>>>
-Chau Le:
+
+## Chau Le:
 The tutorials were very useful. They helped me better understand git and its commands. I will try to practice more the tutorials.
 ----------------------------------------------------------------------------------------------------------------------------------
 
