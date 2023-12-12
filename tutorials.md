@@ -111,8 +111,9 @@ Ashima Sharma: Really good topic, it helped me learn about git and how to use it
 Chandrashekar Reddy: Really impressive compilation of tutorials, learned commit amending and hosting git server from the tutorials, ill use this in my industry and research work.
 
 
+Niharika Sharma: I really like the course it helped me teach a lot of things in git. Thank you for providing this task to to enhance the skill in GIT    
 
-Niharika Sharma: I really like the course it helped me teach a lot of things in git. Thank you for providing this task to to enhance the skill in GIT     
+Achin Pal:	this assignment and the tutorials within its document help us in a very friendly and educational way on how to use the GIT platform learned commit amending and hosting git server from the tutorials, ill use this in my industry and research work.
 
 Abiket Srivastava: It was a great insight to delve into the new learning related to GIT. 
 
