@@ -91,6 +91,8 @@ Great tutorials with outstanding insights
 Kunjal Mahant:
 Github is a very helpful tool for the folks in IT industry. This helps them manage and supervise the changes made by different individual.
  
+
+
 Chau Le:
 The tutorials were very useful. They helped me better understand git and its commands. I will try to practice more the tutorials.
 
@@ -99,5 +101,15 @@ Polash Baidya: Learening Git is exciting and useful. It is always challenging to
 Mohammadali Polara: It was a fun learning with Himanshu Patel throughout the semester.
 
 
+
+Ashima Sharma: Really good topic, it helped me learn about git and how to use it to manage the web repository. I really enjoyed working with this subject
+
+
 Chandrashekar Reddy: Really impressive compilation of tutorials, learned commit amending and hosting git server from the tutorials, ill use this in my industry and research work.
+
+
+
+Niharika Sharma: I really like the course it helped me teach a lot of things in git. Thank you for providing this task to to enhance the skill in GIT     
+
+Abiket Srivastava: It was a great insight to delve into the new learning related to GIT. 
 
