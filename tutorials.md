@@ -95,8 +95,6 @@ Github is a very helpful tool for the folks in IT industry. This helps them mana
 
 ## Chau Le:
 The tutorials were very useful. They helped me better understand git and its commands. I will try to practice more the tutorials.
-----------------------------------------------------------------------------------------------------------------------------------
-
 
 Polash Baidya: Learening Git is exciting and useful. It is always challenging to learn new things.
 
