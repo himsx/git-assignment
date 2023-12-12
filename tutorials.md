@@ -104,4 +104,8 @@ Polash Baidya: Learening Git is exciting and useful. It is always challenging to
 
 Polash Baidya: Learening Git is exciting and useful. It is always challenging to learn new things.
 
+
+Ashima Sharma: Really good topic, it helped me learn about git and how to use it to manage the web repository. I really enjoyed working with this subject
+
+
 Chandrashekar Reddy: Really impressive compilation of tutorials, learned commit amending and hosting git server from the tutorials, ill use this in my industry and research work.
